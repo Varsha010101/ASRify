@@ -44,6 +44,6 @@ Noise Filter: Adjust noise sensitivity with --noise_level.
 Output Format: Choose .txt, .json, or .srt for subtitles.
 
 ## 💡 **Why Choose ASRify?**
-💬 Context-Aware: Understands complex sentences and conversational nuances.
-🤖 AI-Powered: Built with cutting-edge deep learning models (transformers and RNN hybrids).
-💾 Lightweight: Runs efficiently on both cloud servers and local devices.
+1. 💬 Context-Aware: Understands complex sentences and conversational nuances.
+2. 🤖 AI-Powered: Built with cutting-edge deep learning models (transformers and RNN hybrids).
+3. 💾 Lightweight: Runs efficiently on both cloud servers and local devices.
